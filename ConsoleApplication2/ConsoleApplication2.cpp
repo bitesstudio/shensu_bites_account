@@ -3,8 +3,6 @@
 #include <windows.h>
 #include <iostream>
 using namespace std;
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
-//API System by CN_64Bit,You can copy all the code and spread this API. But all legal responsibilities are borne by you.
 //The developer of this software assumes no responsibility. 
 int wait;
 int systemcheck(int x,int y) {
